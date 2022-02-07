@@ -1,9 +1,11 @@
 # Data-Science-with-Python-Learning
-Learning Data science with python via coursera
-First course Introduction to Data Science in Python 
-Four assignments. 
+#Learning Data science with python via coursera
+#First course Introduction to Data Science in Python 
 
-Libraries needed for running the python scripts 
+
+**Four assignments. 
+
+#Libraries needed for running the python scripts 
 
 1- pip install pandas     for assignment#2,3
 2- pip install numpy      for assignment#2,3
